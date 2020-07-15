@@ -1,0 +1,19 @@
+{
+  "genre_options": {
+    "1": "comedy",
+    "2": "sci-fi",
+    "3": "horror",
+    "4": "romance",
+    "5": "action",
+    "6": "thriller",
+    "7": "drama",
+    "8": "mystery",
+    "9": "crime",
+    "10": "animation",
+    "11": "adventure",
+    "12": "fantasy",
+    "13": "comedy-romance",
+    "14": "action-comedy",
+    "15": "superhero"
+  }
+}
